@@ -7,6 +7,7 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
 // ==/UserScript==
+// cdn https://cdn.jsdelivr.net/gh/wish5115/cdn@0.1.1/tampermonkey/SwitchMenu.js
 
 var SwitchMenu = {
     list : [], //菜单列表
